@@ -1,13 +1,22 @@
 # Portfolio (Resume) Website
 A Simple Portfolio Website created in order to display my bio-data in a systematic method.
 
+
 ## Table of Contents
 * [Description](#description)
 * [Tech Stack](#tech-stack)
 * [Further Developments](#further-developments)
 
+
 ## Description
 As described earlier, the website will display my Bio-Data in a more precise and detailed manner. Efforts have been put to make the website **responsive** so that it would be compatible with any device. The website has been hosted using **GitHub Pages** The website will have the following pages:-
+1. [About Me](#about-me)
+2. [Resume](#resume)
+3. [Projects](#projects)
+4. [Achievements](#achievements)
+5. [Blogs](#blogs)
+6. [Contact](#contact)
+
 
 ### About Me
 It will display the *basic details* of my profile and also provide the links to my *GitHub Account, LinkedIn Account, Instagram Account and Facebook Account*.
@@ -37,6 +46,7 @@ This page will allow the user to to connect to me using the direct messaging sys
 2. CSS 
 3. Javascript
 4. Bootstrap 5
+
 
 ## Further Developments
 The website will be **regularly updated** in a week's duration to display the latest developments in my Bio-Data. Furthermore, the work is ongoing in order to make the website more interactive by improving the Contact Me Page. This would be done by implementing the **MailGun API** which would send the required message from the viewer to me using email service.
